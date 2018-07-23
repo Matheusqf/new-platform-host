@@ -1,0 +1,19 @@
+.footer {
+    /* background: linear-gradient(to up,#4A6EF5, #25A3FA);     */
+    background: #25A3Fa;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+.menu {
+    color: #ffffff;
+}
+
+.btn {
+    color: #ffffff;
+    background: #EF6DCE;
+}
+
+form {
+    color: #ffffff;
+}

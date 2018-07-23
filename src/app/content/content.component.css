@@ -1,0 +1,71 @@
+.content {
+  height: 100em;
+}
+
+.title {
+  margin-top: 3em;
+  margin-bottom: 2em;
+  font-size: 2em;
+  text-align: center;
+}
+
+.carousel-item {
+  background-color: #4e5256;
+  height: 200px;
+  color: #ffffff;
+  font-size: 50px;
+  text-align: center;
+}
+
+hr {
+  margin: 4em;
+  border-width: 0.1em;
+}
+
+.video-title {
+  margin-bottom: 1em;
+  font-size: 2em;
+  text-align: center;
+}
+
+.video {
+  background-color: #2d2f38;
+  color: #ffffff;
+  font-size: 2em;
+  height: 320px;
+  width: 480px;
+  display: inline-block;
+}
+
+.pre-video {
+  text-align: center;
+  padding: 0;
+}
+
+.btn {
+  color: #ffffff;
+  background-color: violet;
+}
+
+#btn-more {
+  padding: 0;
+  margin-right: 5em;
+}
+
+.information {
+  margin-top: 10em;
+}
+
+.information-inner {
+  text-align: center;
+}
+
+.title-information {
+  margin: 1em;
+  font-size: 1.5em;
+}
+
+.subtitle-information {
+  font-size: 1em;
+  color: #2d2f38;
+}

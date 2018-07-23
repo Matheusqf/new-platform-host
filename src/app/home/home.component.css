@@ -1,0 +1,55 @@
+.home {
+    padding: 2em;
+    padding-bottom: 6em;
+}
+
+.align-items-center {
+    height: 15em;
+    color: #2AA2F7;
+    font-size: 1.4em;
+    text-align: center;
+}
+
+
+.btn {
+    background-color: #5dbbff;
+    color: #FFFFFF;
+}
+
+.card-icons {
+    margin-top: 2.5em;
+    margin-bottom: 2.5em;
+}
+
+.jumbotron {
+    margin: 30px;
+    padding: 30px;
+}
+
+.more-information {
+    margin-top: 2.5em;
+    text-align: center;
+}
+
+#who-we-are {
+    font-size: 2.5em;
+}
+
+hr {
+    margin: 4em;
+    border-width: 0.1em;
+}
+
+.video {
+    background-color: #2d2f38;
+    color: #ffffff;
+    
+}
+
+.information {
+    margin-top: 2em;
+}
+
+.more-content {
+    text-align: left;
+}
